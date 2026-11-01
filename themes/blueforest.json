@@ -28,7 +28,7 @@
         "editor.gutter.background": "#141F2E",
         "editor.active_line_number": "#D0D0D0",
         "panel.background": "#141F2E",
-        "hint": "#969696ff",
+        "hint": "#D0D0D080",
         "players": [],
         "syntax": {
           "attribute": {
@@ -105,8 +105,7 @@
             "color": "#808000"
           },
           "variable": {
-            "color": "#91CCFF",
-            "font_weight": 700
+            "color": "#fffab1"
           },
           "variable.special": {
             "color": "#91CCFF",
