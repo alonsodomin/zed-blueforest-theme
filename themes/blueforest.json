@@ -46,12 +46,19 @@
             "color": "#a0ffa0",
             "font_style": "italic"
           },
+          "comment.inclusive": {
+            "color": "#a0ffa0",
+            "font_style": "italic"
+          },
           "constant": {
             "color": "#0099FF",
             "font_weight": 700
           },
           "constructor": {
             "color": "#91ccff"
+          },
+          "embedded": {
+            "color": "#80ff80"
           },
           "emphasis": {
             "color": "#F7FF66",
@@ -68,6 +75,17 @@
             "color": "#0099FF",
             "font_weight": 700
           },
+          "keyword.control": {
+            "color": "#0099FF",
+            "font_weight": 700
+          },
+          "keyword.directive": {
+            "color": "#0099FF",
+            "font_weight": 700
+          },
+          "keyword.operator": {
+            "color": "#ffcc33"
+          },
           "link_text": {
             "color": "#91CCFF"
           },
@@ -78,6 +96,15 @@
             "color": "#FF8080"
           },
           "operator": {
+            "color": "#ffcc33"
+          },
+          "punctuation.bracket": {
+            "color": "#e7e7e7"
+          },
+          "punctuation.delimiter": {
+            "color": "#e7e7e7"
+          },
+          "punctuation.special": {
             "color": "#ffcc33"
           },
           "string": {
